@@ -16,3 +16,7 @@ pip install PySide6 sqlalchemy
 ```bash
 python3 -m central.interface
 ```
+
+---
+
+### O código do *interface.py* foi atualizado pra rodar o front, coloque esses arquivos na pasta **Face-X-main\central** que vai rodar certinho <sub> (eu acho) </sub>
